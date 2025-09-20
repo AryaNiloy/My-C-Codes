@@ -1,0 +1,10 @@
+For roll 1 marks in English is 67
+For roll 2 marks in English is 76
+For roll 3 marks in English is 78
+For roll 4 marks in English is 87
+For roll 5 marks in English is 89
+For roll 6 marks in English is 98
+For roll 7 marks in English is 90
+For roll 8 marks in English is 9
+For roll 9 marks in English is 12
+For roll 10 marks in English is 21
